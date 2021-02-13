@@ -1,0 +1,8 @@
+*CityNo.XYZ
+Thanh Pho No S1:sv1.nocity.xyz:191288
+Thanh Pho No S2:sv2.nocity.xyz:191288
+Thanh Pho No S3:sv3.nocity.xyz:191288
+Thanh Pho No S4:sv4.nocity.xyz:191288
+Thanh Pho No Test:127.0.0.1:191288
+*AvatarWorld
+Aries City:52.221.247.71:19128
